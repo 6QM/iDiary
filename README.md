@@ -56,7 +56,6 @@
   + [01.14_闷声发大财](https://github.com/6QM/iDiary/blob/1452b4a42f29696b51168e74a9d1f6dc55791138/files/2019/01.14_%E9%97%B7%E5%A3%B0%E5%8F%91%E5%A4%A7%E8%B4%A2.md)
 + 2月
   + [02.15_我对2019年春节的感受](https://github.com/6QM/iDiary/blob/1452b4a42f29696b51168e74a9d1f6dc55791138/files/2019/02.15_%E6%88%91%E5%AF%B92019%E5%B9%B4%E6%98%A5%E8%8A%82%E7%9A%84%E6%84%9F%E5%8F%97.md)
-  + []()  
 + 3月
   + [03.03_不知道为什么，我就想一事无成](https://github.com/6QM/iDiary/blob/2bc404b8a32ceb17956baaf750f901e01e983182/files/2019/03.03_%E4%B8%8D%E7%9F%A5%E9%81%93%E4%B8%BA%E4%BB%80%E4%B9%88%EF%BC%8C%E6%88%91%E5%B0%B1%E6%83%B3%E4%B8%80%E4%BA%8B%E6%97%A0%E6%88%90.md)
   + [03.28_Imagine](https://github.com/6QM/iDiary/blob/0bac0d05b209c4424e483ec50308967be397af31/files/2019/03.28_Imajine.md)
@@ -65,7 +64,10 @@
   + [01.09_两年大学的总结](https://github.com/6QM/iDiary/blob/2f68ddac42288b7ea7b570423a74e6293d4aa123/files/2020/01.09_%E4%B8%A4%E5%B9%B4%E5%A4%A7%E5%AD%A6%E7%9A%84%E6%80%BB%E7%BB%93.md)
   + [01.15_铭记使命](https://github.com/6QM/iDiary/blob/2f68ddac42288b7ea7b570423a74e6293d4aa123/files/2020/01.15_%E9%93%AD%E8%AE%B0%E4%BD%BF%E5%91%BD.md)
 + 9月
-  + [09.09_那年我二十一](https://github.com/6QM/iDiary/blob/6501c49029b2f3f176d7b40c360cb88b61c3a8f6/files/2020/09.09_%E9%82%A3%E5%B9%B4%E6%88%91%E4%BA%8C%E5%8D%81%E4%B8%80.md)  
+  + [09.09_那年我二十一](https://github.com/6QM/iDiary/blob/6501c49029b2f3f176d7b40c360cb88b61c3a8f6/files/2020/09.09_%E9%82%A3%E5%B9%B4%E6%88%91%E4%BA%8C%E5%8D%81%E4%B8%80.md)
++ 12月
+  + [12.09_一篇同学日记](https://github.com/6QM/iDiary/blob/1f5426956a9cf25ed0ed7219c0b401bed56cd41b/files/2020/12.09_%E4%B8%80%E7%AF%87%E5%90%8C%E5%AD%A6%E6%97%A5%E8%AE%B0.md) 
+  + [12.29_素质教育与做题家](https://github.com/6QM/iDiary/blob/6c2e7ce1ec608f0ea9a070f2122f6498812a92a2/files/2020/12.29_%E7%B4%A0%E8%B4%A8%E6%95%99%E8%82%B2%E4%B8%8E%E5%81%9A%E9%A2%98%E5%AE%B6.md)  
 ## 2021年
 + 1月
   +  [01.12_Attitude is Changing](https://github.com/6QM/iDiary/blob/2f68ddac42288b7ea7b570423a74e6293d4aa123/files/2021/01.12_Attitude%20is%20Changing.md)
