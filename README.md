@@ -12,7 +12,8 @@
 
  + 11月
   + [11.09_关于吃苦的经验](https://github.com/6QM/iDiary/blob/1847d765522b7c53a6b2e23d964d02986e71cb7c/files/2017/11.09_%E5%85%B3%E4%BA%8E%E5%90%83%E8%8B%A6%E7%9A%84%E7%BB%8F%E9%AA%8C.md) 
-  + 
+  + [11.10_“阶级固化“了你的思维
+](https://github.com/6QM/iDiary/blob/015dd80965bec23a1bbef2fcb4ad4e82f0c2bd7b/files/2017/11.10_%E2%80%9C%E9%98%B6%E7%BA%A7%E5%9B%BA%E5%8C%96%E2%80%9C%E4%BA%86%E4%BD%A0%E7%9A%84%E6%80%9D%E7%BB%B4.md)
 ## 2018年
 + 1月
   + [01.01_大一上学期的总结](https://github.com/6QM/iDiary/blob/c5aac127a4294cd2e834a97365db0d3275be9c87/files/2018/01.01_%E5%A4%A7%E4%B8%80%E4%B8%8A%E5%AD%A6%E6%9C%9F%E7%9A%84%E6%80%BB%E7%BB%93.md)
