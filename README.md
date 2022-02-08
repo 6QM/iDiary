@@ -10,8 +10,21 @@
 + 7月
   + [07.11_真想撕掉那窗帘](https://github.com/6QM/iDiary/blob/e5e3f284734b09aae671d74cd08196a397c8f67b/files/2017/07.11_%E7%9C%9F%E6%83%B3%E6%92%95%E6%8E%89%E9%82%A3%E7%AA%97%E5%B8%98.md)
   + [07.25_我所渴求的事](https://github.com/6QM/iDiary/blob/c5aac127a4294cd2e834a97365db0d3275be9c87/files/2017/07.25_%E6%88%91%E6%89%80%E6%B8%B4%E6%B1%82%E7%9A%84%E4%BA%8B.md)
-
+  + [07.28_不断初心](https://github.com/6QM/iDiary/blob/607b3f0d938c306b3c3cb985979da2a407f76894/files/2017/07.28_%E4%B8%8D%E6%96%AD%E5%88%9D%E5%BF%83.md)
+  + [07.28_美丽的遗憾](https://github.com/6QM/iDiary/blob/607b3f0d938c306b3c3cb985979da2a407f76894/files/2017/07.28_%E7%BE%8E%E4%B8%BD%E7%9A%84%E9%81%97%E6%86%BE.md)
++ 8月
+  + [08.14_成长](https://github.com/6QM/iDiary/blob/a3335baff241e532cd9aeae71d036ca2836c3040/files/2017/08.14_%E6%88%90%E9%95%BF.md) 
++ 9月
+  + [09.11_我的指南针](https://github.com/6QM/iDiary/blob/a3335baff241e532cd9aeae71d036ca2836c3040/files/2017/09.11_%E6%88%91%E7%9A%84%E6%8C%87%E5%8D%97%E9%92%88.md)
+  + [09.14_钱途](https://github.com/6QM/iDiary/blob/a3335baff241e532cd9aeae71d036ca2836c3040/files/2017/09.14_%E9%92%B1%E9%80%94.md)
+  + [09.18_入疆有感](https://github.com/6QM/iDiary/blob/a3335baff241e532cd9aeae71d036ca2836c3040/files/2017/09.18_%E5%85%A5%E7%96%86%E6%9C%89%E6%84%9F.md)
++ 10月
+  + [10.17_ Why so serious](https://github.com/6QM/iDiary/blob/a3335baff241e532cd9aeae71d036ca2836c3040/files/2017/10.17_%20Why%20so%20serious.md)
+  + [10.28_进书店](https://github.com/6QM/iDiary/blob/a3335baff241e532cd9aeae71d036ca2836c3040/files/2017/10.28_%E8%BF%9B%E4%B9%A6%E5%BA%97.md)
+  + [10.29_读书是一件要事](https://github.com/6QM/iDiary/blob/a3335baff241e532cd9aeae71d036ca2836c3040/files/2017/10.29_%E8%AF%BB%E4%B9%A6%E6%98%AF%E4%B8%80%E4%BB%B6%E8%A6%81%E4%BA%8B.md)
 + 11月
+  + [11.03_马哲老师与学生](https://github.com/6QM/iDiary/blob/a3335baff241e532cd9aeae71d036ca2836c3040/files/2017/11.03_%E9%A9%AC%E5%93%B2%E8%80%81%E5%B8%88%E4%B8%8E%E5%AD%A6%E7%94%9F.md) 
+  + [11.08_大学可是大好的痛苦时光](https://github.com/6QM/iDiary/blob/a3335baff241e532cd9aeae71d036ca2836c3040/files/2017/11.08_%E5%A4%A7%E5%AD%A6%E5%8F%AF%E6%98%AF%E5%A4%A7%E5%A5%BD%E7%9A%84%E7%97%9B%E8%8B%A6%E6%97%B6%E5%85%89.md)
   + [11.09_关于吃苦的经验](https://github.com/6QM/iDiary/blob/1847d765522b7c53a6b2e23d964d02986e71cb7c/files/2017/11.09_%E5%85%B3%E4%BA%8E%E5%90%83%E8%8B%A6%E7%9A%84%E7%BB%8F%E9%AA%8C.md) 
   + [11.10_“阶级固化“了你的思维](https://github.com/6QM/iDiary/blob/015dd80965bec23a1bbef2fcb4ad4e82f0c2bd7b/files/2017/11.10_%E2%80%9C%E9%98%B6%E7%BA%A7%E5%9B%BA%E5%8C%96%E2%80%9C%E4%BA%86%E4%BD%A0%E7%9A%84%E6%80%9D%E7%BB%B4.md)
   + [11.16_不成熟的记录](https://github.com/6QM/iDiary/blob/a9a1cc13ed98453625c5eb5a66e2960d27e25f58/files/2017/11.16_%E4%B8%8D%E6%88%90%E7%86%9F%E7%9A%84%E8%AE%B0%E5%BD%95.md)
