@@ -47,14 +47,17 @@
   + [我的陋习](https://github.com/6QM/iDiary/blob/main/2017.md#%E6%88%91%E7%9A%84%E9%99%8B%E4%B9%A0)
   + [回首往昔，我的人生充斥着耻辱](https://github.com/6QM/iDiary/blob/main/2017.md#%E5%9B%9E%E9%A6%96%E5%BE%80%E6%98%94%E6%88%91%E7%9A%84%E4%BA%BA%E7%94%9F%E5%85%85%E6%96%A5%E7%9D%80%E8%80%BB%E8%BE%B1)
   + [审视自己的想法](https://github.com/6QM/iDiary/blob/main/2017.md#%E5%AE%A1%E8%A7%86%E8%87%AA%E5%B7%B1%E7%9A%84%E6%83%B3%E6%B3%95)
+  + 荐读—《万历十五年》
   + [自圆其说](https://github.com/6QM/iDiary/blob/main/2017.md#%E8%87%AA%E5%9C%86%E5%85%B6%E8%AF%B4)
   + [你要争气](https://github.com/6QM/iDiary/blob/main/2017.md#%E4%BD%A0%E8%A6%81%E4%BA%89%E6%B0%94)
   + [一些差距](https://github.com/6QM/iDiary/blob/main/2017.md#%E4%B8%80%E4%BA%9B%E5%B7%AE%E8%B7%9D)
+  + 太宰治与我
   + [对阶级的看法](https://github.com/6QM/iDiary/blob/main/2017.md#%E5%AF%B9%E9%98%B6%E7%BA%A7%E7%9A%84%E7%9C%8B%E6%B3%95)
 ## 2018年
 + 01月
   + [大一上学期的总结](https://github.com/6QM/iDiary/blob/main/2018.md#%E5%A4%A7%E4%B8%80%E4%B8%8A%E5%AD%A6%E6%9C%9F%E7%9A%84%E6%80%BB%E7%BB%93)
   + [我的颓废](https://github.com/6QM/iDiary/blob/c5aac127a4294cd2e834a97365db0d3275be9c87/files/2018/01.01_%E6%88%91%E7%9A%84%E9%A2%93%E5%BA%9F.md)
+  + 酷酷的存在
   + [情呀爱呀](https://github.com/6QM/iDiary/blob/main/2018.md#%E6%83%85%E5%91%80%E7%88%B1%E5%91%80)
   + [关于复读的想法](https://github.com/6QM/iDiary/blob/main/2018.md#%E5%85%B3%E4%BA%8E%E5%A4%8D%E8%AF%BB%E7%9A%84%E6%83%B3%E6%B3%95)
   + [写给肯阅读的人](https://github.com/6QM/iDiary/blob/main/2018.md#%E5%86%99%E7%BB%99%E8%82%AF%E9%98%85%E8%AF%BB%E7%9A%84%E4%BA%BA)
@@ -65,28 +68,41 @@
   + [为什么要用功读书](https://github.com/6QM/iDiary/blob/main/2018.md#%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E7%94%A8%E5%8A%9F%E8%AF%BB%E4%B9%A6)
   + [在铁轨边上玩耍](https://github.com/6QM/iDiary/blob/main/2018.md#%E5%9C%A8%E9%93%81%E8%BD%A8%E8%BE%B9%E4%B8%8A%E7%8E%A9%E8%80%8D)
   + [2018的冷](https://github.com/6QM/iDiary/blob/main/2018.md#2018%E7%9A%84%E5%86%B7)
+  + 荐读—《人间失格》
 + 02月
   + [野火](https://github.com/6QM/iDiary/blob/main/2018.md#%E9%87%8E%E7%81%AB)
+  + 荐读—《苏东坡传》
+  + 荐读—《人生》
   + [人生要耐得住寂寞](https://github.com/6QM/iDiary/blob/main/2018.md#%E4%BA%BA%E7%94%9F%E8%A6%81%E8%80%90%E5%BE%97%E4%BD%8F%E5%AF%82%E5%AF%9E)
   + [少年，你不要急](https://github.com/6QM/iDiary/blob/main/2018.md#%E5%B0%91%E5%B9%B4%E4%BD%A0%E4%B8%8D%E8%A6%81%E6%80%A5)
   
 + 03月
   + [又是离别](https://github.com/6QM/iDiary/blob/main/2018.md#%E5%8F%88%E6%98%AF%E7%A6%BB%E5%88%AB)
+  + 荐读—《小王子》
   + [来到大学后](https://github.com/6QM/iDiary/blob/main/2018.md#%E6%9D%A5%E5%88%B0%E5%A4%A7%E5%AD%A6%E5%90%8E)
   + [丑文](https://github.com/6QM/iDiary/blob/main/2018.md#%E4%B8%91%E6%96%87)
+  + 荐读—《房思琪的失恋乐园》
+  + 荐读—《万万没有想到：用理工科思维理解世界》
   + [终身学习](https://github.com/6QM/iDiary/blob/main/2018.md#%E7%BB%88%E8%BA%AB%E5%AD%A6%E4%B9%A0)
 + 04月
   + [为什么而写](https://github.com/6QM/iDiary/blob/main/2018.md#%E4%B8%BA%E4%BB%80%E4%B9%88%E8%80%8C%E5%86%99)
   + [我眼中的应试教育](https://github.com/6QM/iDiary/blob/main/2018.md#%E6%88%91%E7%9C%BC%E4%B8%AD%E7%9A%84%E5%BA%94%E8%AF%95%E6%95%99%E8%82%B2)
   + [苟思想](https://github.com/6QM/iDiary/blob/main/2018.md#%E8%8B%9F%E6%80%9D%E6%83%B3)
   + [追忆高考](https://github.com/6QM/iDiary/blob/main/2018.md#%E8%BF%BD%E5%BF%86%E9%AB%98%E8%80%83)
+  + 荐读—《娱乐至死》
   + [语言的无力](https://github.com/6QM/iDiary/blob/main/2018.md#%E8%AF%AD%E8%A8%80%E7%9A%84%E6%97%A0%E5%8A%9B)
+  + 荐读—《我们生活在巨大的差距里》
+  + 荐读—《动物农场》
+  + 荐读—《情人》
   + [我和我的朋友们](https://github.com/6QM/iDiary/blob/main/2018.md#%E6%88%91%E5%92%8C%E6%88%91%E7%9A%84%E6%9C%8B%E5%8F%8B%E4%BB%AC)
   + [我对2018的春节的感受](https://github.com/6QM/iDiary/blob/main/2018.md#%E6%88%91%E5%AF%B92018%E7%9A%84%E6%98%A5%E8%8A%82%E7%9A%84%E6%84%9F%E5%8F%97)
   + [江青的故事](https://github.com/6QM/iDiary/blob/main/2018.md#%E6%B1%9F%E9%9D%92%E7%9A%84%E6%95%85%E4%BA%8B)
 + 05月
   + [噩梦](https://github.com/6QM/iDiary/blob/main/2018.md#%E5%99%A9%E6%A2%A6)
   + [十九岁时对未来的假想](https://github.com/6QM/iDiary/blob/main/2018.md#%E5%8D%81%E4%B9%9D%E5%B2%81%E6%97%B6%E5%AF%B9%E6%9C%AA%E6%9D%A5%E7%9A%84%E5%81%87%E6%83%B3)
+  + 荐读—《阿城精选集》
+  + 荐读—《活出生命的意义》
+  + 荐读—《小狗钱钱》
   + [闲言](https://github.com/6QM/iDiary/blob/main/2018.md#%E9%97%B2%E8%A8%80)
   + [离死亡最近的一次](https://github.com/6QM/iDiary/blob/main/2018.md#%E7%A6%BB%E6%AD%BB%E4%BA%A1%E6%9C%80%E8%BF%91%E7%9A%84%E4%B8%80%E6%AC%A1)
   + [关于感恩](https://github.com/6QM/iDiary/blob/main/2018.md#%E5%85%B3%E4%BA%8E%E6%84%9F%E6%81%A9)
@@ -95,13 +111,20 @@
   + [那时我真是聪明的过分](https://github.com/6QM/iDiary/blob/main/2018.md#%E9%82%A3%E6%97%B6%E6%88%91%E7%9C%9F%E6%98%AF%E8%81%AA%E6%98%8E%E7%9A%84%E8%BF%87%E5%88%86)
   + [打工第一天](https://github.com/6QM/iDiary/blob/main/2018.md#%E6%89%93%E5%B7%A5%E7%AC%AC%E4%B8%80%E5%A4%A9)
   + [关于写作](https://github.com/6QM/iDiary/blob/main/2018.md#%E5%85%B3%E4%BA%8E%E5%86%99%E4%BD%9C)
+  + 打工日志
 + 08月
-  + [两篇日记](https://github.com/6QM/iDiary/blob/main/2018.md#%E4%B8%A4%E7%AF%87%E6%97%A5%E8%AE%B0)
+  + 无力文学
+  + 荐读—《活着》
   + [打工记](https://github.com/6QM/iDiary/blob/main/2018.md#%E6%89%93%E5%B7%A5%E8%AE%B0)
+  + 荐读—《了不起的盖茨比》
+  + [两篇日记](https://github.com/6QM/iDiary/blob/main/2018.md#%E4%B8%A4%E7%AF%87%E6%97%A5%E8%AE%B0)
+  + 荐读—《七堂极简物理课》
   + [一篇关于看完火影的日记](https://github.com/6QM/iDiary/blob/main/2018.md#%E4%B8%80%E7%AF%87%E5%85%B3%E4%BA%8E%E7%9C%8B%E5%AE%8C%E7%81%AB%E5%BD%B1%E7%9A%84%E6%97%A5%E8%AE%B0)
   + [两件往事](https://github.com/6QM/iDiary/blob/main/2018.md#%E4%B8%A4%E4%BB%B6%E5%BE%80%E4%BA%8B)
 + 09月
   + [实践检验认识](https://github.com/6QM/iDiary/blob/main/2018.md#%E5%AE%9E%E8%B7%B5%E6%A3%80%E9%AA%8C%E8%AE%A4%E8%AF%86)
+  + 真实
+  + 善良比聪明更难
 + 10月
   + [杂记](https://github.com/6QM/iDiary/blob/main/2018.md#%E6%9D%82%E8%AE%B0)
   + [孤独死了](https://github.com/6QM/iDiary/blob/main/2018.md#%E5%AD%A4%E7%8B%AC%E6%AD%BB%E4%BA%86)
@@ -161,6 +184,7 @@
   + [持志](https://github.com/6QM/iDiary/blob/main/2019.md#%E6%8C%81%E5%BF%97)
   + [对生活的持久满足](https://github.com/6QM/iDiary/blob/main/2019.md#%E5%AF%B9%E7%94%9F%E6%B4%BB%E7%9A%84%E6%8C%81%E4%B9%85%E6%BB%A1%E8%B6%B3)
   + [攀登](https://github.com/6QM/iDiary/blob/main/2019.md#%E6%94%80%E7%99%BB)
+
 ## 2020年
 + 01月
   + [两年大学的总结](https://github.com/6QM/iDiary/blob/main/2020.md#%E4%B8%8A%E4%B8%A4%E5%B9%B4%E5%A4%A7%E5%AD%A6%E7%9A%84%E6%80%BB%E7%BB%93)
@@ -202,12 +226,14 @@
 + 11月
   + [我眼中的朋友](https://github.com/6QM/iDiary/blob/main/2020.md#%E6%88%91%E7%9C%BC%E4%B8%AD%E7%9A%84%E6%9C%8B%E5%8F%8B)
   + [最深刻的记忆](https://github.com/6QM/iDiary/blob/main/2020.md#%E6%9C%80%E6%B7%B1%E5%88%BB%E7%9A%84%E8%AE%B0%E5%BF%86)
+  + 甜蜜的随感
   + [看书有什么用](https://github.com/6QM/iDiary/blob/main/2020.md#%E7%9C%8B%E4%B9%A6%E6%9C%89%E4%BB%80%E4%B9%88%E7%94%A8)
   + [随时记录](https://github.com/6QM/iDiary/blob/main/2020.md#%E9%9A%8F%E6%97%B6%E8%AE%B0%E5%BD%95)
   + [两种水](https://github.com/6QM/iDiary/blob/main/2020.md#%E4%B8%A4%E7%A7%8D%E6%B0%B4)
 + 12月
   + [一篇同学日记](https://github.com/6QM/iDiary/blob/main/2020.md#%E4%B8%80%E7%AF%87%E5%90%8C%E5%AD%A6%E6%97%A5%E8%AE%B0)
-  + [素质教育与做题家](https://github.com/6QM/iDiary/blob/main/2020.md#%E7%B4%A0%E8%B4%A8%E6%95%99%E8%82%B2%E4%B8%8E%E5%81%9A%E9%A2%98%E5%AE%B6) 
+  + 胡思乱想
+  + [素质教育与做题家](https://github.com/6QM/iDiary/blob/main/2020.md#%E7%B4%A0%E8%B4%A8%E6%95%99%E8%82%B2%E4%B8%8E%E5%81%9A%E9%A2%98%E5%AE%B6)
 
 ## 2021年
 + 01月
@@ -219,7 +245,7 @@
   + [行道](https://github.com/6QM/iDiary/blob/main/2021.md#%E8%A1%8C%E9%81%93)
   + [学术出版商与SCI-HUB引起的思考](https://github.com/6QM/iDiary/blob/main/2021.md#%E5%AD%A6%E6%9C%AF%E5%87%BA%E7%89%88%E5%95%86%E4%B8%8Esci-hub%E5%BC%95%E8%B5%B7%E7%9A%84%E6%80%9D%E8%80%83)
   + [荐读—“任何人都能从兴趣开始集中突破”](https://github.com/6QM/iDiary/blob/main/2021.md#%E8%8D%90%E8%AF%BB%E4%BB%BB%E4%BD%95%E4%BA%BA%E9%83%BD%E8%83%BD%E4%BB%8E%E5%85%B4%E8%B6%A3%E5%BC%80%E5%A7%8B%E9%9B%86%E4%B8%AD%E7%AA%81%E7%A0%B4)
-  + [荐读-做时间的朋友](https://github.com/6QM/iDiary/blob/main/2021.md#20210527_%E8%8D%90%E8%AF%BB-%E5%81%9A%E6%97%B6%E9%97%B4%E7%9A%84%E6%9C%8B%E5%8F%8B)
+  + [荐读—做时间的朋友](https://github.com/6QM/iDiary/blob/main/2021.md#20210527_%E8%8D%90%E8%AF%BB-%E5%81%9A%E6%97%B6%E9%97%B4%E7%9A%84%E6%9C%8B%E5%8F%8B)
   + [《壁业》](https://github.com/6QM/iDiary/blob/main/2021.md#%E5%A3%81%E4%B8%9A)
   + [About reading](https://github.com/6QM/iDiary/blob/main/2021.md#20210613_about-reading)
   + [一部分人倡导的“钱生钱”能解决卡脖子的问题吗？](https://github.com/6QM/iDiary/blob/main/2021.md#%E4%B8%80%E9%83%A8%E5%88%86%E4%BA%BA%E5%80%A1%E5%AF%BC%E7%9A%84%E9%92%B1%E7%94%9F%E9%92%B1%E8%83%BD%E8%A7%A3%E5%86%B3%E5%8D%A1%E8%84%96%E5%AD%90%E7%9A%84%E9%97%AE%E9%A2%98%E5%90%97)
