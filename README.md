@@ -252,7 +252,7 @@
   + [躺平做自己](https://github.com/6QM/iDiary/blob/main/2021.md#%E8%BA%BA%E5%B9%B3%E5%81%9A%E8%87%AA%E5%B7%B1)
   + [时间就是差距](https://github.com/6QM/iDiary/blob/main/2021.md#%E6%97%B6%E9%97%B4%E5%B0%B1%E6%98%AF%E5%B7%AE%E8%B7%9D)
 
-## 2022年
+## 2022年：转眼研二
 + 02月
   + [老生常谈](https://github.com/6QM/iDiary/blob/main/2022.md#%E8%80%81%E7%94%9F%E5%B8%B8%E8%B0%88)
 
