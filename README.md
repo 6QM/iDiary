@@ -8,7 +8,7 @@
 
 -->
 
-## 2016年 高考以前
+## 2016年：大学前夕
 
 + 1月
   + [未曾梦想](https://github.com/6QM/iDiary/blob/main/2016-%E9%AB%98%E8%80%83%E4%B9%8B%E5%89%8D.md#%E6%9C%AA%E6%9B%BE%E6%A2%A6%E6%83%B3)
