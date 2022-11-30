@@ -8,12 +8,12 @@
 
 -->
 
-## 2016年
+## 2016年 高考以前
 
 + 1月
   + [未曾梦想](https://github.com/6QM/iDiary/blob/main/2016-%E9%AB%98%E8%80%83%E4%B9%8B%E5%89%8D.md#%E6%9C%AA%E6%9B%BE%E6%A2%A6%E6%83%B3)
 
-## 2017年
+## 2017年：初识大学
 
 + 6月
   + [一个关于没认真对待考试的梦](https://github.com/6QM/iDiary/blob/main/2017.md#%E4%B8%80%E4%B8%AA%E5%85%B3%E4%BA%8E%E6%B2%A1%E8%AE%A4%E7%9C%9F%E5%AF%B9%E5%BE%85%E8%80%83%E8%AF%95%E7%9A%84%E6%A2%A6)
@@ -53,7 +53,7 @@
   + [一些差距](https://github.com/6QM/iDiary/blob/main/2017.md#%E4%B8%80%E4%BA%9B%E5%B7%AE%E8%B7%9D)
   + 太宰治与我
   + [对阶级的看法](https://github.com/6QM/iDiary/blob/main/2017.md#%E5%AF%B9%E9%98%B6%E7%BA%A7%E7%9A%84%E7%9C%8B%E6%B3%95)
-## 2018年
+## 2018年：情爱大二
 + 01月
   + [大一上学期的总结](https://github.com/6QM/iDiary/blob/main/2018.md#%E5%A4%A7%E4%B8%80%E4%B8%8A%E5%AD%A6%E6%9C%9F%E7%9A%84%E6%80%BB%E7%BB%93)
   + [我的颓废](https://github.com/6QM/iDiary/blob/c5aac127a4294cd2e834a97365db0d3275be9c87/files/2018/01.01_%E6%88%91%E7%9A%84%E9%A2%93%E5%BA%9F.md)
@@ -137,7 +137,7 @@
   + [自身实践是根本](https://github.com/6QM/iDiary/blob/main/2018.md#%E8%87%AA%E8%BA%AB%E5%AE%9E%E8%B7%B5%E6%98%AF%E6%A0%B9%E6%9C%AC)
   + [屏幕里的精彩](https://github.com/6QM/iDiary/blob/main/2018.md#%E5%B1%8F%E5%B9%95%E9%87%8C%E7%9A%84%E7%B2%BE%E5%BD%A9)
   + [他](https://github.com/6QM/iDiary/blob/main/2018.md#%E4%BB%96)
-## 2019年
+## 2019年：如此大三
 + 01月
   + [不适的看法](https://github.com/6QM/iDiary/blob/main/2019.md#%E4%B8%8D%E9%80%82%E7%9A%84%E7%9C%8B%E6%B3%95)
   + [闷声发大财](https://github.com/6QM/iDiary/blob/main/2019.md#%E9%97%B7%E5%A3%B0%E5%8F%91%E5%A4%A7%E8%B4%A2)
@@ -185,7 +185,7 @@
   + [对生活的持久满足](https://github.com/6QM/iDiary/blob/main/2019.md#%E5%AF%B9%E7%94%9F%E6%B4%BB%E7%9A%84%E6%8C%81%E4%B9%85%E6%BB%A1%E8%B6%B3)
   + [攀登](https://github.com/6QM/iDiary/blob/main/2019.md#%E6%94%80%E7%99%BB)
 
-## 2020年
+## 2020年：抉择大四
 + 01月
   + [两年大学的总结](https://github.com/6QM/iDiary/blob/main/2020.md#%E4%B8%8A%E4%B8%A4%E5%B9%B4%E5%A4%A7%E5%AD%A6%E7%9A%84%E6%80%BB%E7%BB%93)
   + [铭记使命](https://github.com/6QM/iDiary/blob/main/2020.md#%E9%93%AD%E8%AE%B0%E4%BD%BF%E5%91%BD)
@@ -235,7 +235,7 @@
   + 胡思乱想
   + [素质教育与做题家](https://github.com/6QM/iDiary/blob/main/2020.md#%E7%B4%A0%E8%B4%A8%E6%95%99%E8%82%B2%E4%B8%8E%E5%81%9A%E9%A2%98%E5%AE%B6)
 
-## 2021年
+## 2021年：晋级研一
 + 01月
   +  [Attitude is Changing](https://github.com/6QM/iDiary/blob/main/2021.md#attitude-is-changing)
   +  [When is the ready](https://github.com/6QM/iDiary/blob/main/2021.md#when-is-the-ready)
@@ -257,4 +257,5 @@
   + [老生常谈](https://github.com/6QM/iDiary/blob/main/2022.md#%E8%80%81%E7%94%9F%E5%B8%B8%E8%B0%88)
 
 ## 前言
-这里为个人整理的随笔，其写作动力不外乎是在听到，看到，学到以及接触到一些基于生活上的事实后，大脑所发的热，不仅让我产生了思考意识，更有了写下来的动作，于是乎，这才便成了现在读到的文。这些文字放在这里，大概算是一点个人资料，更多地，也许是一些人永远也无法理解也完全没有必要理解的符号集合。
+
+✍这里为个人整理的随笔，其写作动力不外乎是在听到，看到，学到以及接触到一些基于生活上的事实后，大脑所发的热，不仅让我产生了思考意识，更有了写下来的动作，于是乎，这才便成了现在读到的文。这些文字放在这里，大概算是一点个人资料，更多地，也许是一些人永远也无法理解也完全没有必要理解的符号集合。
