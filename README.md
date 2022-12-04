@@ -8,21 +8,21 @@
 
 -->
 
-## 2016年：大学前夕
+## 2016：大学前夕
 
-+ 1月
-  + [未曾梦想](https://github.com/6QM/iDiary/blob/main/2016-%E9%AB%98%E8%80%83%E4%B9%8B%E5%89%8D.md#%E6%9C%AA%E6%9B%BE%E6%A2%A6%E6%83%B3)
++ January
+  + 01: ✍ [未曾梦想](https://github.com/6QM/iDiary/blob/main/2016.md#%E6%9C%AA%E6%9B%BE%E6%A2%A6%E6%83%B3)
 
 ## 2017年：初识大学
 
-+ 6月
-  + [一个关于没认真对待考试的梦](https://github.com/6QM/iDiary/blob/main/2017.md#%E4%B8%80%E4%B8%AA%E5%85%B3%E4%BA%8E%E6%B2%A1%E8%AE%A4%E7%9C%9F%E5%AF%B9%E5%BE%85%E8%80%83%E8%AF%95%E7%9A%84%E6%A2%A6)
-+ 7月
-  + [真想撕掉那窗帘](https://github.com/6QM/iDiary/blob/main/2017.md#%E7%9C%9F%E6%83%B3%E6%92%95%E6%8E%89%E9%82%A3%E7%AA%97%E5%B8%98)
-  + [我所渴求的事](https://github.com/6QM/iDiary/blob/main/2017.md#%E6%88%91%E6%B8%B4%E6%B1%82%E7%9A%84%E4%BA%8B)
-  + [不断初心](https://github.com/6QM/iDiary/blob/main/2017.md#%E4%B8%8D%E5%BF%98%E5%88%9D%E5%BF%83)
-  + [美丽的遗憾](https://github.com/6QM/iDiary/blob/main/2017.md#%E7%BE%8E%E4%B8%BD%E7%9A%84%E9%81%97%E6%86%BE)
-+ 8月
++ June
+  + 15: ✍ [一个关于没认真对待考试的梦](https://github.com/6QM/iDiary/blob/main/2017.md#%E4%B8%80%E4%B8%AA%E5%85%B3%E4%BA%8E%E6%B2%A1%E8%AE%A4%E7%9C%9F%E5%AF%B9%E5%BE%85%E8%80%83%E8%AF%95%E7%9A%84%E6%A2%A6)
++ July
+  + 11: ✍ [真想撕掉那窗帘](https://github.com/6QM/iDiary/blob/main/2017.md#%E7%9C%9F%E6%83%B3%E6%92%95%E6%8E%89%E9%82%A3%E7%AA%97%E5%B8%98)
+  + 25: ✍ [我所渴求的事](https://github.com/6QM/iDiary/blob/main/2017.md#%E6%88%91%E6%B8%B4%E6%B1%82%E7%9A%84%E4%BA%8B)
+  + 28: ✍ [不断初心](https://github.com/6QM/iDiary/blob/main/2017.md#%E4%B8%8D%E5%BF%98%E5%88%9D%E5%BF%83)
+  + 28: ✍ [美丽的遗憾](https://github.com/6QM/iDiary/blob/main/2017.md#%E7%BE%8E%E4%B8%BD%E7%9A%84%E9%81%97%E6%86%BE)
++ August
   + [成长](https://github.com/6QM/iDiary/blob/main/2017.md#%E6%88%90%E9%95%BF) 
 + 9月
   + [我的指南针](https://github.com/6QM/iDiary/blob/main/2017.md#%E6%88%91%E7%9A%84%E6%8C%87%E5%8D%97%E9%92%88)
@@ -53,7 +53,7 @@
   + [一些差距](https://github.com/6QM/iDiary/blob/main/2017.md#%E4%B8%80%E4%BA%9B%E5%B7%AE%E8%B7%9D)
   + [太宰治与我](https://github.com/6QM/iDiary/blob/main/2017.md#%E5%A4%AA%E5%AE%B0%E6%B2%BB%E4%B8%8E%E6%88%91)
   + [对阶级的看法](https://github.com/6QM/iDiary/blob/main/2017.md#%E5%AF%B9%E9%98%B6%E7%BA%A7%E7%9A%84%E7%9C%8B%E6%B3%95)
-## 2018年：情爱大二
+## 2018：意气大二
 + 01月
   + [大一上学期的总结](https://github.com/6QM/iDiary/blob/main/2018.md#%E5%A4%A7%E4%B8%80%E4%B8%8A%E5%AD%A6%E6%9C%9F%E7%9A%84%E6%80%BB%E7%BB%93)
   + [我的颓废](https://github.com/6QM/iDiary/blob/c5aac127a4294cd2e834a97365db0d3275be9c87/files/2018/01.01_%E6%88%91%E7%9A%84%E9%A2%93%E5%BA%9F.md)
