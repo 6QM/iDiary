@@ -2,13 +2,13 @@
 ## CONTENT
 
 
-| YEAR | FLAG                                                                           | YEAR  | FLAG                                                                           | 
-|------|--------------------------------------------------------------------------------|-------|--------------------------------------------------------------------------------|
-| 2016 | [大学前夕](https://github.com/6QM/iDiary#2016%E5%A4%A7%E5%AD%A6%E5%89%8D%E5%A4%95) | 2021  | [晋级研一](https://github.com/6QM/iDiary#2021%E6%99%8B%E7%BA%A7%E7%A0%94%E4%B8%80) | 
-| 2017 | [初识大学](https://github.com/6QM/iDiary#2017%E5%88%9D%E8%AF%86%E5%A4%A7%E5%AD%A6) | 2022  | [转眼研二](https://github.com/6QM/iDiary#2022%E8%BD%AC%E7%9C%BC%E7%A0%94%E4%BA%8C) | 
-| 2018 | [意气大二](https://github.com/6QM/iDiary#2018%E6%84%8F%E6%B0%94%E5%A4%A7%E4%BA%8C) | 2023  | =>[抉择研三](https://github.com/6QM/iDiary#2023%E6%8A%89%E6%8B%A9%E7%A0%94%E4%B8%89)                                                                     | 
-| 2019 | [如此大三](https://github.com/6QM/iDiary#2019%E5%A6%82%E6%AD%A4%E5%A4%A7%E4%B8%89) |       |                                                                                |
-| 2020 | [抉择大四](https://github.com/6QM/iDiary#2020%E6%8A%89%E6%8B%A9%E5%A4%A7%E5%9B%9B)                                                                       |       |                                                                                |
+| YEAR | FLAG                                                                           | YEAR  | FLAG                                                                             | 
+|------|--------------------------------------------------------------------------------|-------|----------------------------------------------------------------------------------|
+| 2016 | [大学前夕](https://github.com/6QM/iDiary#2016%E5%A4%A7%E5%AD%A6%E5%89%8D%E5%A4%95) | 2021  | [晋级研一](https://github.com/6QM/iDiary#2021%E6%99%8B%E7%BA%A7%E7%A0%94%E4%B8%80)   | 
+| 2017 | [初识大学](https://github.com/6QM/iDiary#2017%E5%88%9D%E8%AF%86%E5%A4%A7%E5%AD%A6) | 2022  | [转眼研二](https://github.com/6QM/iDiary#2022%E8%BD%AC%E7%9C%BC%E7%A0%94%E4%BA%8C)   | 
+| 2018 | [意气大二](https://github.com/6QM/iDiary#2018%E6%84%8F%E6%B0%94%E5%A4%A7%E4%BA%8C) | 2023  | ->[抉择研三](https://github.com/6QM/iDiary#2023%E6%8A%89%E6%8B%A9%E7%A0%94%E4%B8%89) | 
+| 2019 | [如此大三](https://github.com/6QM/iDiary#2019%E5%A6%82%E6%AD%A4%E5%A4%A7%E4%B8%89) |       |                                                                                  |
+| 2020 | [抉择大四](https://github.com/6QM/iDiary#2020%E6%8A%89%E6%8B%A9%E5%A4%A7%E5%9B%9B)                                                                       |       |                                                                                  |
 
 
 
