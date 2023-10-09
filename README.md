@@ -1,10 +1,13 @@
-# Contents 
-## 前言
+
+### Foreword
 
 ✍这里为个人整理的随笔，其写作动力不外乎是在听到，看到，学到以及接触到一些基于生活上的事实后，大脑所发的热，不仅让我产生了思考意识，更有了写下来的动作，于是乎，这才便成了现在读到的文。这些文字放在这里，大概算是一点个人资料，更多地，也许是一些人永远也无法理解也完全没有必要理解的符号集合。
+
+<!--
 | Chronological order events |
 |----------------------------|
 | Non-fiction & fiction      |
+-->
 
 <!--
 
@@ -14,20 +17,20 @@
 
 -->
 
-## 2016：大学前夕
+### 2016：大学前夕
 
 + January
-  + 01: ✍ [未曾梦想](https://github.com/6QM/iDiary/blob/main/2016.md#%E6%9C%AA%E6%9B%BE%E6%A2%A6%E6%83%B3)
+  + 01:  [未曾梦想](https://github.com/6QM/iDiary/blob/main/2016.md#%E6%9C%AA%E6%9B%BE%E6%A2%A6%E6%83%B3)
 
-## 2017：初识大学
+### 2017：初识大学
 
 + June
-  + 15: ✍ [一个关于没认真对待考试的梦](https://github.com/6QM/iDiary/blob/main/2017.md#%E4%B8%80%E4%B8%AA%E5%85%B3%E4%BA%8E%E6%B2%A1%E8%AE%A4%E7%9C%9F%E5%AF%B9%E5%BE%85%E8%80%83%E8%AF%95%E7%9A%84%E6%A2%A6)
+  + [一个关于没认真对待考试的梦](https://github.com/6QM/iDiary/blob/main/2017.md#%E4%B8%80%E4%B8%AA%E5%85%B3%E4%BA%8E%E6%B2%A1%E8%AE%A4%E7%9C%9F%E5%AF%B9%E5%BE%85%E8%80%83%E8%AF%95%E7%9A%84%E6%A2%A6)
 + July
-  + 11: ✍ [真想撕掉那窗帘](https://github.com/6QM/iDiary/blob/main/2017.md#%E7%9C%9F%E6%83%B3%E6%92%95%E6%8E%89%E9%82%A3%E7%AA%97%E5%B8%98)
-  + 25: ✍ [我所渴求的事](https://github.com/6QM/iDiary/blob/main/2017.md#%E6%88%91%E6%B8%B4%E6%B1%82%E7%9A%84%E4%BA%8B)
-  + 28: ✍ [不断初心](https://github.com/6QM/iDiary/blob/main/2017.md#%E4%B8%8D%E5%BF%98%E5%88%9D%E5%BF%83)
-  + 28: ✍ [美丽的遗憾](https://github.com/6QM/iDiary/blob/main/2017.md#%E7%BE%8E%E4%B8%BD%E7%9A%84%E9%81%97%E6%86%BE)
+  + [真想撕掉那窗帘](https://github.com/6QM/iDiary/blob/main/2017.md#%E7%9C%9F%E6%83%B3%E6%92%95%E6%8E%89%E9%82%A3%E7%AA%97%E5%B8%98)
+  + [我所渴求的事](https://github.com/6QM/iDiary/blob/main/2017.md#%E6%88%91%E6%B8%B4%E6%B1%82%E7%9A%84%E4%BA%8B)
+  + [不断初心](https://github.com/6QM/iDiary/blob/main/2017.md#%E4%B8%8D%E5%BF%98%E5%88%9D%E5%BF%83)
+  + [美丽的遗憾](https://github.com/6QM/iDiary/blob/main/2017.md#%E7%BE%8E%E4%B8%BD%E7%9A%84%E9%81%97%E6%86%BE)
 + August
   + [成长](https://github.com/6QM/iDiary/blob/main/2017.md#%E6%88%90%E9%95%BF) 
 + September
@@ -59,7 +62,7 @@
   + [一些差距](https://github.com/6QM/iDiary/blob/main/2017.md#%E4%B8%80%E4%BA%9B%E5%B7%AE%E8%B7%9D)
   + [太宰治与我](https://github.com/6QM/iDiary/blob/main/2017.md#%E5%A4%AA%E5%AE%B0%E6%B2%BB%E4%B8%8E%E6%88%91)
   + [对阶级的看法](https://github.com/6QM/iDiary/blob/main/2017.md#%E5%AF%B9%E9%98%B6%E7%BA%A7%E7%9A%84%E7%9C%8B%E6%B3%95)
-## 2018：意气大二
+### 2018：意气大二
 + January
   + [大一上学期的总结](https://github.com/6QM/iDiary/blob/main/2018.md#%E5%A4%A7%E4%B8%80%E4%B8%8A%E5%AD%A6%E6%9C%9F%E7%9A%84%E6%80%BB%E7%BB%93)
   + [我的颓废](https://github.com/6QM/iDiary/blob/c5aac127a4294cd2e834a97365db0d3275be9c87/files/2018/01.01_%E6%88%91%E7%9A%84%E9%A2%93%E5%BA%9F.md)
@@ -114,6 +117,7 @@
   + [关于感恩](https://github.com/6QM/iDiary/blob/main/2018.md#%E5%85%B3%E4%BA%8E%E6%84%9F%E6%81%A9)
   + [时间是苦口的良药](https://github.com/6QM/iDiary/blob/main/2018.md#%E6%97%B6%E9%97%B4%E6%98%AF%E8%8B%A6%E5%8F%A3%E7%9A%84%E8%89%AF%E8%8D%AF)
 + June
+  + [老子有言](https://github.com/6QM/iDiary/blob/main/2018.md#%E8%80%81%E5%AD%90%E6%9C%89%E8%A8%80)
   + [那时我真是聪明的过分](https://github.com/6QM/iDiary/blob/main/2018.md#%E9%82%A3%E6%97%B6%E6%88%91%E7%9C%9F%E6%98%AF%E8%81%AA%E6%98%8E%E7%9A%84%E8%BF%87%E5%88%86)
   + [打工第一天](https://github.com/6QM/iDiary/blob/main/2018.md#%E6%89%93%E5%B7%A5%E7%AC%AC%E4%B8%80%E5%A4%A9)
   + [关于写作](https://github.com/6QM/iDiary/blob/main/2018.md#%E5%85%B3%E4%BA%8E%E5%86%99%E4%BD%9C)
@@ -143,7 +147,7 @@
   + [自身实践是根本](https://github.com/6QM/iDiary/blob/main/2018.md#%E8%87%AA%E8%BA%AB%E5%AE%9E%E8%B7%B5%E6%98%AF%E6%A0%B9%E6%9C%AC)
   + [屏幕里的精彩](https://github.com/6QM/iDiary/blob/main/2018.md#%E5%B1%8F%E5%B9%95%E9%87%8C%E7%9A%84%E7%B2%BE%E5%BD%A9)
   + [他](https://github.com/6QM/iDiary/blob/main/2018.md#%E4%BB%96)
-## 2019：如此大三
+### 2019：如此大三
 + January
   + [不适的看法](https://github.com/6QM/iDiary/blob/main/2019.md#%E4%B8%8D%E9%80%82%E7%9A%84%E7%9C%8B%E6%B3%95)
   + [闷声发大财](https://github.com/6QM/iDiary/blob/main/2019.md#%E9%97%B7%E5%A3%B0%E5%8F%91%E5%A4%A7%E8%B4%A2)
@@ -191,7 +195,7 @@
   + [对生活的持久满足](https://github.com/6QM/iDiary/blob/main/2019.md#%E5%AF%B9%E7%94%9F%E6%B4%BB%E7%9A%84%E6%8C%81%E4%B9%85%E6%BB%A1%E8%B6%B3)
   + [攀登](https://github.com/6QM/iDiary/blob/main/2019.md#%E6%94%80%E7%99%BB)
 
-## 2020：抉择大四
+### 2020：抉择大四
 + January
   + [两年大学的总结](https://github.com/6QM/iDiary/blob/main/2020.md#%E4%B8%8A%E4%B8%A4%E5%B9%B4%E5%A4%A7%E5%AD%A6%E7%9A%84%E6%80%BB%E7%BB%93)
   + [铭记使命](https://github.com/6QM/iDiary/blob/main/2020.md#%E9%93%AD%E8%AE%B0%E4%BD%BF%E5%91%BD)
@@ -241,7 +245,7 @@
   + [胡思乱想](https://github.com/6QM/iDiary/blob/main/2020.md#%E8%83%A1%E6%80%9D%E4%B9%B1%E6%83%B3)
   + [素质教育与做题家](https://github.com/6QM/iDiary/blob/main/2020.md#%E7%B4%A0%E8%B4%A8%E6%95%99%E8%82%B2%E4%B8%8E%E5%81%9A%E9%A2%98%E5%AE%B6)
 
-## 2021：晋级研一
+### 2021：晋级研一
 + January
   +  [Attitude is Changing](https://github.com/6QM/iDiary/blob/main/2021.md#attitude-is-changing)
   +  [When is the ready](https://github.com/6QM/iDiary/blob/main/2021.md#when-is-the-ready)
@@ -258,7 +262,29 @@
   + [躺平做自己](https://github.com/6QM/iDiary/blob/main/2021.md#%E8%BA%BA%E5%B9%B3%E5%81%9A%E8%87%AA%E5%B7%B1)
   + [时间就是差距](https://github.com/6QM/iDiary/blob/main/2021.md#%E6%97%B6%E9%97%B4%E5%B0%B1%E6%98%AF%E5%B7%AE%E8%B7%9D)
 
-## 2022：转眼研二
+### 2022：转眼研二
 + February
   + [老生常谈](https://github.com/6QM/iDiary/blob/main/2022.md#%E8%80%81%E7%94%9F%E5%B8%B8%E8%B0%88)
 
+### 2023：抉择研三
++ January
+  + [理想与实践](https://github.com/6QM/iDiary/blob/main/2023.md#%E7%90%86%E6%83%B3%E4%B8%8E%E5%AE%9E%E8%B7%B5)
++ March
+  + [沉淀](https://github.com/6QM/iDiary/blob/main/2023.md#%E6%B2%89%E6%B7%80)
+  + [写作](https://github.com/6QM/iDiary/blob/main/2023.md#%E5%86%99%E4%BD%9C)
+  + [学涯](https://github.com/6QM/iDiary/blob/main/2023.md#%E5%AD%A6%E6%B6%AF)
++ April
+  + [How about now](https://github.com/6QM/iDiary/blob/main/2023.md#how-about-now)
+  + [作文](https://github.com/6QM/iDiary/blob/main/2023.md#%E4%BD%9C%E6%96%87)
++ May
+  + [Chatter whenever](https://github.com/6QM/iDiary/blob/main/2023.md#chatter-whenever)
+  + [知道](https://github.com/6QM/iDiary/blob/main/2023.md#%E7%9F%A5%E9%81%93)
++ June
+  + [Wow factor](https://github.com/6QM/iDiary/blob/main/2023.md#wow-factor)
+  + [幼苦/Childhood](https://github.com/6QM/iDiary/blob/main/2023.md#%E5%B9%BC%E8%8B%A6childhood)
+  + [Of Water (饮水思源)](https://github.com/6QM/iDiary/blob/main/2023.md#of-water-%E9%A5%AE%E6%B0%B4%E6%80%9D%E6%BA%90)
++ August
+  + [说破](https://github.com/6QM/iDiary/blob/main/2023.md#%E8%AF%B4%E7%A0%B4)
+  + [On](https://github.com/6QM/iDiary/blob/main/2023.md#on)
++ September
+  + [We Word Stories/微言喻事](https://github.com/6QM/iDiary/blob/main/2023.md#we-word-stories%E5%BE%AE%E8%A8%80%E5%96%BB%E4%BA%8B)
