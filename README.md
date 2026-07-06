@@ -307,7 +307,6 @@ ps: If there is any typo, feel free to contact me,thank for your patient reading
   + [作文](https://github.com/6QM/iDiary/blob/main/2023.md#%E4%BD%9C%E6%96%87)
 + May
   + [Chatter whenever](https://github.com/6QM/iDiary/blob/main/2023.md#chatter-whenever)
-  + [The Value Triangle of Money](https://github.com/6QM/iDiary/blob/main/2023.md#the-value-triangle-of-money)
   + [知道](https://github.com/6QM/iDiary/blob/main/2023.md#%E7%9F%A5%E9%81%93)
 + June
   + [Wow factor](https://github.com/6QM/iDiary/blob/main/2023.md#wow-factor)
@@ -358,6 +357,7 @@ ps: If there is any typo, feel free to contact me,thank for your patient reading
   + [It’s Time](https://github.com/6QM/iDiary/blob/main/2025.md#its-time)
 + May
   + [柴静](https://github.com/6QM/iDiary/blob/main/2025.md#%E6%9F%B4%E9%9D%99)
+  + [The Value Triangle of Money](https://github.com/6QM/iDiary/blob/main/2025.md#the-value-triangle-of-money)
 + June
   + [创作的终点: 编辑的终点](https://github.com/6QM/iDiary/blob/main/2025.md#%E5%88%9B%E4%BD%9C%E7%9A%84%E7%BB%88%E7%82%B9-%E7%BC%96%E8%BE%91%E7%9A%84%E7%BB%88%E7%82%B9)
 + July
