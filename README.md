@@ -8,7 +8,8 @@
 | 2017 | [初识大学](https://github.com/6QM/iDiary#2017%E5%88%9D%E8%AF%86%E5%A4%A7%E5%AD%A6) | 2022  | [转眼研二](https://github.com/6QM/iDiary#2022%E8%BD%AC%E7%9C%BC%E7%A0%94%E4%BA%8C)   | 
 | 2018 | [意气大二](https://github.com/6QM/iDiary#2018%E6%84%8F%E6%B0%94%E5%A4%A7%E4%BA%8C) | 2023  | [抉择研三](https://github.com/6QM/iDiary#2023%E6%8A%89%E6%8B%A9%E7%A0%94%E4%B8%89) |
 | 2019 | [如此大三](https://github.com/6QM/iDiary#2019%E5%A6%82%E6%AD%A4%E5%A4%A7%E4%B8%89) | 2024  | [奋力不博](https://github.com/6QM/iDiary#2024%E5%A5%8B%E5%8A%9B%E4%B8%8D%E5%8D%9A) |
-| 2020 | [抉择大四](https://github.com/6QM/iDiary#2020%E6%8A%89%E6%8B%A9%E5%A4%A7%E5%9B%9B)                                                                       | 2025  | ->[2025](https://github.com/6QM/iDiary#2025)                                      |
+| 2020 | [抉择大四](https://github.com/6QM/iDiary#2020%E6%8A%89%E6%8B%A9%E5%A4%A7%E5%9B%9B)                                                                       | 2025  | [积微成著](https://github.com/6QM/iDiary#2025%E7%A7%AF%E5%BE%AE%E6%88%90%E8%91%97) |
+|      |                                                                                | 2026  | [向内复利](https://github.com/6QM/iDiary#2026%E5%90%91%E5%86%85%E5%A4%8D%E5%88%A9) |
 
 
 
@@ -336,7 +337,7 @@ ps: If there is any typo, feel free to contact me,thank for your patient reading
 + December
   + [太阳](https://github.com/6QM/iDiary/blob/main/2024.md#%E5%A4%AA%E9%98%B3)
 
-### 2025
+### 2025：积微成著
 + January
   + [Veritas](https://github.com/6QM/iDiary/blob/main/2025.md#veritas)
   + [读《工程师之魂》有感](https://github.com/6QM/iDiary/blob/main/2025.md#%E8%AF%BB%E5%B7%A5%E7%A8%8B%E5%B8%88%E4%B9%8B%E9%AD%82%E6%9C%89%E6%84%9F)
@@ -379,7 +380,7 @@ ps: If there is any typo, feel free to contact me,thank for your patient reading
   + [开源精神](https://github.com/6QM/iDiary/blob/main/2025.md#%E5%BC%80%E6%BA%90%E7%B2%BE%E7%A5%9E)
   + [Educated](https://github.com/6QM/iDiary/blob/main/2025.md#educated)
 
-### 2026
+### 2026：向内复利
 + January
   + [AI：从基于共识到创建](https://github.com/6QM/iDiary/blob/main/2026.md#ai%E4%BB%8E%E5%9F%BA%E4%BA%8E%E5%85%B1%E8%AF%86%E5%88%B0%E5%88%9B%E5%BB%BA)
   + [Luck](https://github.com/6QM/iDiary/blob/main/2026.md#luck)
