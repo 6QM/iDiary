@@ -6,9 +6,9 @@
 |------|--------------------------------------------------------------------------------|-------|----------------------------------------------------------------------------------|
 | 2016 | [大学前夕](https://github.com/6QM/iDiary#2016%E5%A4%A7%E5%AD%A6%E5%89%8D%E5%A4%95) | 2021  | [晋级研一](https://github.com/6QM/iDiary#2021%E6%99%8B%E7%BA%A7%E7%A0%94%E4%B8%80)   | 
 | 2017 | [初识大学](https://github.com/6QM/iDiary#2017%E5%88%9D%E8%AF%86%E5%A4%A7%E5%AD%A6) | 2022  | [转眼研二](https://github.com/6QM/iDiary#2022%E8%BD%AC%E7%9C%BC%E7%A0%94%E4%BA%8C)   | 
-| 2018 | [意气大二](https://github.com/6QM/iDiary#2018%E6%84%8F%E6%B0%94%E5%A4%A7%E4%BA%8C) | 2023  | ->[抉择研三](https://github.com/6QM/iDiary#2023%E6%8A%89%E6%8B%A9%E7%A0%94%E4%B8%89) | 
-| 2019 | [如此大三](https://github.com/6QM/iDiary#2019%E5%A6%82%E6%AD%A4%E5%A4%A7%E4%B8%89) |       |                                                                                  |
-| 2020 | [抉择大四](https://github.com/6QM/iDiary#2020%E6%8A%89%E6%8B%A9%E5%A4%A7%E5%9B%9B)                                                                       |       |                                                                                  |
+| 2018 | [意气大二](https://github.com/6QM/iDiary#2018%E6%84%8F%E6%B0%94%E5%A4%A7%E4%BA%8C) | 2023  | [抉择研三](https://github.com/6QM/iDiary#2023%E6%8A%89%E6%8B%A9%E7%A0%94%E4%B8%89) |
+| 2019 | [如此大三](https://github.com/6QM/iDiary#2019%E5%A6%82%E6%AD%A4%E5%A4%A7%E4%B8%89) | 2024  | [2024](https://github.com/6QM/iDiary#2024)                                        |
+| 2020 | [抉择大四](https://github.com/6QM/iDiary#2020%E6%8A%89%E6%8B%A9%E5%A4%A7%E5%9B%9B)                                                                       | 2025  | ->[2025](https://github.com/6QM/iDiary#2025)                                      |
 
 
 
@@ -85,6 +85,7 @@ ps: If there is any typo, feel free to contact me,thank for your patient reading
   + [一些差距](https://github.com/6QM/iDiary/blob/main/2017.md#%E4%B8%80%E4%BA%9B%E5%B7%AE%E8%B7%9D)
   + [太宰治与我](https://github.com/6QM/iDiary/blob/main/2017.md#%E5%A4%AA%E5%AE%B0%E6%B2%BB%E4%B8%8E%E6%88%91)
   + [对阶级的看法](https://github.com/6QM/iDiary/blob/main/2017.md#%E5%AF%B9%E9%98%B6%E7%BA%A7%E7%9A%84%E7%9C%8B%E6%B3%95)
+  + [盈](https://github.com/6QM/iDiary/blob/main/2017.md#%E7%9B%88)
 ### 2018：意气大二
 + January
   + [大一上学期的总结](https://github.com/6QM/iDiary/blob/main/2018.md#%E5%A4%A7%E4%B8%80%E4%B8%8A%E5%AD%A6%E6%9C%9F%E7%9A%84%E6%80%BB%E7%BB%93)
@@ -283,6 +284,8 @@ ps: If there is any typo, feel free to contact me,thank for your patient reading
   + [About reading](https://github.com/6QM/iDiary/blob/main/2021.md#20210613_about-reading)
   + [一部分人倡导的“钱生钱”能解决卡脖子的问题吗？](https://github.com/6QM/iDiary/blob/main/2021.md#%E4%B8%80%E9%83%A8%E5%88%86%E4%BA%BA%E5%80%A1%E5%AF%BC%E7%9A%84%E9%92%B1%E7%94%9F%E9%92%B1%E8%83%BD%E8%A7%A3%E5%86%B3%E5%8D%A1%E8%84%96%E5%AD%90%E7%9A%84%E9%97%AE%E9%A2%98%E5%90%97)
   + [躺平做自己](https://github.com/6QM/iDiary/blob/main/2021.md#%E8%BA%BA%E5%B9%B3%E5%81%9A%E8%87%AA%E5%B7%B1)
++ November
+  + [反思熬夜](https://github.com/6QM/iDiary/blob/main/2021.md#%E5%8F%8D%E6%80%9D%E7%86%AC%E5%A4%9C)
   + [时间就是差距](https://github.com/6QM/iDiary/blob/main/2021.md#%E6%97%B6%E9%97%B4%E5%B0%B1%E6%98%AF%E5%B7%AE%E8%B7%9D)
 
 ### 2022：转眼研二
@@ -292,6 +295,9 @@ ps: If there is any typo, feel free to contact me,thank for your patient reading
 ### 2023：抉择研三
 + January
   + [理想与实践](https://github.com/6QM/iDiary/blob/main/2023.md#%E7%90%86%E6%83%B3%E4%B8%8E%E5%AE%9E%E8%B7%B5)
+  + [Stuck](https://github.com/6QM/iDiary/blob/main/2023.md#stuck)
++ February
+  + [诺言](https://github.com/6QM/iDiary/blob/main/2023.md#%E8%AF%BA%E8%A8%80)
 + March
   + [沉淀](https://github.com/6QM/iDiary/blob/main/2023.md#%E6%B2%89%E6%B7%80)
   + [写作](https://github.com/6QM/iDiary/blob/main/2023.md#%E5%86%99%E4%BD%9C)
@@ -301,6 +307,7 @@ ps: If there is any typo, feel free to contact me,thank for your patient reading
   + [作文](https://github.com/6QM/iDiary/blob/main/2023.md#%E4%BD%9C%E6%96%87)
 + May
   + [Chatter whenever](https://github.com/6QM/iDiary/blob/main/2023.md#chatter-whenever)
+  + [The Value Triangle of Money](https://github.com/6QM/iDiary/blob/main/2023.md#the-value-triangle-of-money)
   + [知道](https://github.com/6QM/iDiary/blob/main/2023.md#%E7%9F%A5%E9%81%93)
 + June
   + [Wow factor](https://github.com/6QM/iDiary/blob/main/2023.md#wow-factor)
@@ -308,6 +315,111 @@ ps: If there is any typo, feel free to contact me,thank for your patient reading
   + [Of Water (饮水思源)](https://github.com/6QM/iDiary/blob/main/2023.md#of-water-%E9%A5%AE%E6%B0%B4%E6%80%9D%E6%BA%90)
 + August
   + [说破](https://github.com/6QM/iDiary/blob/main/2023.md#%E8%AF%B4%E7%A0%B4)
+  + [熬夜](https://github.com/6QM/iDiary/blob/main/2023.md#%E7%86%AC%E5%A4%9C)
   + [On](https://github.com/6QM/iDiary/blob/main/2023.md#on)
 + September
   + [We Word Stories/微言喻事](https://github.com/6QM/iDiary/blob/main/2023.md#we-word-stories%E5%BE%AE%E8%A8%80%E5%96%BB%E4%BA%8B)
++ October
+  + [学问](https://github.com/6QM/iDiary/blob/main/2023.md#%E5%AD%A6%E9%97%AE)
+  + [Acquire](https://github.com/6QM/iDiary/blob/main/2023.md#acquire)
++ November
+  + [The Miss](https://github.com/6QM/iDiary/blob/main/2023.md#the-miss)
+  + [F word](https://github.com/6QM/iDiary/blob/main/2023.md#f-word)
+
+### 2024
++ February
+  + [道](https://github.com/6QM/iDiary/blob/main/2024.md#%E9%81%93)
++ April
+  + [管中一斑](https://github.com/6QM/iDiary/blob/main/2024.md#%E7%AE%A1%E4%B8%AD%E4%B8%80%E6%96%91)
++ August
+  + [回望重庆](https://github.com/6QM/iDiary/blob/main/2024.md#%E5%9B%9E%E6%9C%9B%E9%87%8D%E5%BA%86)
+  + [去事](https://github.com/6QM/iDiary/blob/main/2024.md#%E5%8E%BB%E4%BA%8B)
++ December
+  + [太阳](https://github.com/6QM/iDiary/blob/main/2024.md#%E5%A4%AA%E9%98%B3)
+
+### 2025
++ January
+  + [Veritas](https://github.com/6QM/iDiary/blob/main/2025.md#veritas)
+  + [读《工程师之魂》有感](https://github.com/6QM/iDiary/blob/main/2025.md#%E8%AF%BB%E5%B7%A5%E7%A8%8B%E5%B8%88%E4%B9%8B%E9%AD%82%E6%9C%89%E6%84%9F)
++ February
+  + [求索](https://github.com/6QM/iDiary/blob/main/2025.md#%E6%B1%82%E7%B4%A2)
+  + [Donald Trump @ Lex Fridman](https://github.com/6QM/iDiary/blob/main/2025.md#donald-trump--lex-fridman)
++ March
+  + [Notes for ageless](https://github.com/6QM/iDiary/blob/main/2025.md#notes-for-ageless)
+  + [读《巴菲特致股东的信》有感](https://github.com/6QM/iDiary/blob/main/2025.md#%E8%AF%BB%E5%B7%B4%E8%8F%B2%E7%89%B9%E8%87%B4%E8%82%A1%E4%B8%9C%E7%9A%84%E4%BF%A1%E6%9C%89%E6%84%9F)
+  + [Self-fulfillment in different period of my life](https://github.com/6QM/iDiary/blob/main/2025.md#self-fulfillment-in-different-period-of-my-life)
+  + [BYD](https://github.com/6QM/iDiary/blob/main/2025.md#byd)
+  + [Different Paths, Different Challenges](https://github.com/6QM/iDiary/blob/main/2025.md#different-paths-different-challenges)
+  + [Urban Gravity](https://github.com/6QM/iDiary/blob/main/2025.md#urban-gravity)
+  + [Be Bold](https://github.com/6QM/iDiary/blob/main/2025.md#be-bold)
+  + [Choose](https://github.com/6QM/iDiary/blob/main/2025.md#choose)
+  + [Wall Shadow](https://github.com/6QM/iDiary/blob/main/2025.md#wall-shadow)
++ April
+  + [It’s Time](https://github.com/6QM/iDiary/blob/main/2025.md#its-time)
++ May
+  + [柴静](https://github.com/6QM/iDiary/blob/main/2025.md#%E6%9F%B4%E9%9D%99)
++ June
+  + [创作的终点: 编辑的终点](https://github.com/6QM/iDiary/blob/main/2025.md#%E5%88%9B%E4%BD%9C%E7%9A%84%E7%BB%88%E7%82%B9-%E7%BC%96%E8%BE%91%E7%9A%84%E7%BB%88%E7%82%B9)
++ July
+  + [科学与技术及工程与应用之区别](https://github.com/6QM/iDiary/blob/main/2025.md#%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF%E5%8F%8A%E5%B7%A5%E7%A8%8B%E4%B8%8E%E5%BA%94%E7%94%A8%E4%B9%8B%E5%8C%BA%E5%88%AB)
+  + [Not One Alone](https://github.com/6QM/iDiary/blob/main/2025.md#not-one-alone)
++ September
+  + [Mr. Money Mustache奇遇记](https://github.com/6QM/iDiary/blob/main/2025.md#mr-money-mustache%E5%A5%87%E9%81%87%E8%AE%B0)
++ October
+  + [√n，n和复利的人生](https://github.com/6QM/iDiary/blob/main/2025.md#nn%E5%92%8C%E5%A4%8D%E5%88%A9%E7%9A%84%E4%BA%BA%E7%94%9F)
++ November
+  + [I Still Had Faith](https://github.com/6QM/iDiary/blob/main/2025.md#i-still-had-faith)
+  + [瓦砾与墙](https://github.com/6QM/iDiary/blob/main/2025.md#%E7%93%A6%E7%A0%BE%E4%B8%8E%E5%A2%99)
+  + [Dots and Line](https://github.com/6QM/iDiary/blob/main/2025.md#dots-and-line)
++ December
+  + [复利](https://github.com/6QM/iDiary/blob/main/2025.md#%E5%A4%8D%E5%88%A9)
+  + [You Get What You Measure (一)](https://github.com/6QM/iDiary/blob/main/2025.md#you-get-what-you-measure-%E4%B8%80)
+  + [Jensen Huang](https://github.com/6QM/iDiary/blob/main/2025.md#jensen-huang)
+  + [The Choice](https://github.com/6QM/iDiary/blob/main/2025.md#the-choice)
+  + [开源精神](https://github.com/6QM/iDiary/blob/main/2025.md#%E5%BC%80%E6%BA%90%E7%B2%BE%E7%A5%9E)
+  + [Educated](https://github.com/6QM/iDiary/blob/main/2025.md#educated)
+
+### 2026
++ January
+  + [AI：从基于共识到创建](https://github.com/6QM/iDiary/blob/main/2026.md#ai%E4%BB%8E%E5%9F%BA%E4%BA%8E%E5%85%B1%E8%AF%86%E5%88%B0%E5%88%9B%E5%BB%BA)
+  + [Luck](https://github.com/6QM/iDiary/blob/main/2026.md#luck)
++ February
+  + [Of Course? No — Of Coursera](https://github.com/6QM/iDiary/blob/main/2026.md#of-course-no--of-coursera)
+  + [想法、思考与表达](https://github.com/6QM/iDiary/blob/main/2026.md#%E6%83%B3%E6%B3%95%E6%80%9D%E8%80%83%E4%B8%8E%E8%A1%A8%E8%BE%BE)
+  + [SVD](https://github.com/6QM/iDiary/blob/main/2026.md#svd)
+  + [The Buck-Passing Driver](https://github.com/6QM/iDiary/blob/main/2026.md#the-buck-passing-driver)
++ March
+  + [时间换空间（时间对称性）](https://github.com/6QM/iDiary/blob/main/2026.md#%E6%97%B6%E9%97%B4%E6%8D%A2%E7%A9%BA%E9%97%B4%E6%97%B6%E9%97%B4%E5%AF%B9%E7%A7%B0%E6%80%A7)
+  + [Life-long Learning](https://github.com/6QM/iDiary/blob/main/2026.md#life-long-learning)
+  + [Meta-Skill](https://github.com/6QM/iDiary/blob/main/2026.md#meta-skill)
+  + [Do 和 Implement](https://github.com/6QM/iDiary/blob/main/2026.md#do-%E5%92%8C-implement)
+  + [致2016老己:](https://github.com/6QM/iDiary/blob/main/2026.md#%E8%87%B42016%E8%80%81%E5%B7%B1)
+  + [27th](https://github.com/6QM/iDiary/blob/main/2026.md#27th)
+  + [The End of Perfect Prompting](https://github.com/6QM/iDiary/blob/main/2026.md#the-end-of-perfect-prompting)
+  + [知识考古](https://github.com/6QM/iDiary/blob/main/2026.md#%E7%9F%A5%E8%AF%86%E8%80%83%E5%8F%A4)
+  + [From Time to Time](https://github.com/6QM/iDiary/blob/main/2026.md#from-time-to-time)
++ April
+  + [Compass](https://github.com/6QM/iDiary/blob/main/2026.md#compass)
+  + [Pay Your Attention](https://github.com/6QM/iDiary/blob/main/2026.md#pay-your-attention)
+  + [Too Old, Too Early](https://github.com/6QM/iDiary/blob/main/2026.md#too-old-too-early)
+  + [AI](https://github.com/6QM/iDiary/blob/main/2026.md#ai)
+  + [Beyond the Known](https://github.com/6QM/iDiary/blob/main/2026.md#beyond-the-known)
++ May
+  + [Failure](https://github.com/6QM/iDiary/blob/main/2026.md#failure)
+  + [矛，盾之用](https://github.com/6QM/iDiary/blob/main/2026.md#%E7%9F%9B%E7%9B%BE%E4%B9%8B%E7%94%A8)
+  + [Intention](https://github.com/6QM/iDiary/blob/main/2026.md#intention)
+  + [The Learner’s Interface](https://github.com/6QM/iDiary/blob/main/2026.md#the-learners-interface)
+  + [What I Measured](https://github.com/6QM/iDiary/blob/main/2026.md#what-i-measured)
++ June
+  + [Book Your Future](https://github.com/6QM/iDiary/blob/main/2026.md#book-your-future)
+  + [Compounding Yourself](https://github.com/6QM/iDiary/blob/main/2026.md#compounding-yourself)
+  + [Viability](https://github.com/6QM/iDiary/blob/main/2026.md#viability)
+  + [In Formation](https://github.com/6QM/iDiary/blob/main/2026.md#in-formation)
+  + [直到道到](https://github.com/6QM/iDiary/blob/main/2026.md#%E7%9B%B4%E5%88%B0%E9%81%93%E5%88%B0)
+  + [Educate](https://github.com/6QM/iDiary/blob/main/2026.md#educate)
+  + [The Rising Tide](https://github.com/6QM/iDiary/blob/main/2026.md#the-rising-tide)
+  + [在班上](https://github.com/6QM/iDiary/blob/main/2026.md#%E5%9C%A8%E7%8F%AD%E4%B8%8A)
++ July
+  + [Looking for Mr. Success](https://github.com/6QM/iDiary/blob/main/2026.md#looking-for-mr-success)
+  + [AI And I](https://github.com/6QM/iDiary/blob/main/2026.md#ai-and-i)
+  + [Write？Right](https://github.com/6QM/iDiary/blob/main/2026.md#writeright)
